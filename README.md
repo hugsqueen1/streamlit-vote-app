@@ -3,6 +3,8 @@
 A simple electronic voting system built with **Streamlit** that simulates a basic **blockchain** structure. Users can vote for candidates, and every two votes are recorded in a new block containing timestamps and cryptographic hashes to ensure data integrity.
 
 ---
+![image](https://github.com/user-attachments/assets/1e42ada9-d50e-46a3-820b-00541f819904)
+
 
 ## ✅ Features
 
